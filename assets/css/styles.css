@@ -54,7 +54,8 @@
 .merch {
     background-color: #f012be !important;
     border-color: #f012be !important;
-    color: #ffffff !important
+    color: #ffffff !important;
+    margin-left: 0px
 }
 
 .dropdown .dropdown-menu {
